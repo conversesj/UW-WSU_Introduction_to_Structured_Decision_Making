@@ -7,6 +7,7 @@ Managing natural resources requires making decisions; in fact, one of the hardes
 
 ## Course Meeting Times and Locations
 •	Workshop: January 3-7, 2023; 8:00 – 17:00, Troy 309, WSU Campus, Pullman WA
+
 •	Wednesdays, January 11-March 8, 2023; 1-2:20 on Zoom
 
 ## More Information 
