@@ -11,4 +11,4 @@ Managing natural resources requires making decisions; in fact, one of the hardes
 
 ## More Information 
 
-Please contact Sarah at sconver@uw.edu if you are interested in taking the cousrse 
+Please contact Sarah at sconver@uw.edu if you are interested in taking the course. 
