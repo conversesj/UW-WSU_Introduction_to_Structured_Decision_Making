@@ -46,7 +46,7 @@ utility <- 1-exp(-value/0.4)
 value.cont <- seq(0,1,by=0.001)
 utility.cont <- 1-exp(-value.cont/0.4)
 
-plot(value,utility,xlab = "Probability of Extinction",ylab = "Utility",xlim=c(0,1),ylim=c(0,1),pch=19)
+plot(value,utility,xlab = "Probability of Persistence",ylab = "Utility",xlim=c(0,1),ylim=c(0,1),pch=19)
 lines(value.cont,utility.cont)
 
 #expected utility 
